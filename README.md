@@ -1,2 +1,2 @@
-# Startup-Website
+# Startup Website
 Startup Website for my learning purpose
